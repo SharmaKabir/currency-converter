@@ -133,6 +133,7 @@ form button{
   
   .select-container img {
     max-width: 2rem;
+    color: rgb(80,61,66);
   }
   
   .select-container {
